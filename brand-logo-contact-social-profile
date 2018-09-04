@@ -1,0 +1,90 @@
+<script type="application/ld+json">
+  {
+    "@context":"https://schema.org",
+    "@type": "Store",
+    "brand": "Funsiamo心玩藝手作蛋糕教室",
+    "image": [
+      "http://www.funsiamo.com/images/infoimg1.png"
+    ],
+    "@id": "http://www.funsiamo.com",
+    "url": "http://www.funsiamo.com",
+    "sameAs": [
+      "https://www.facebook.com/funsiamo/",
+      "https://www.instagram.com/funsiamo/",
+      "http://line.me/ti/p/@cqc2787m"
+    ],
+    "name":"Funsiamo心玩藝手作蛋糕教室 台北光復門市",
+    "logo":"http://www.funsiamo.com/images/logo_1920_black.png",
+    "priceRange": "$$",
+  	"address": {
+      "@type": "PostalAddress",
+      "streetAddress": "光復南路200巷28號1樓 ",
+      "addressLocality": "大安區",
+      "addressRegion": "台北市",
+      "postalCode": "106",
+      "addressCountry": "TW"
+    },
+    "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.0420858,
+    "longitude": 121.5540349
+    },
+    "telephone": "+8862-2775-3688",
+    "openingHoursSpecification": [
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "opens": "10:00",
+      "closes": "21:00"
+     }
+    ],
+    "department": [
+    {
+      "@type": "Store",
+      "image": [
+        "http://www.funsiamo.com/images/infoimg1.png"
+      ],
+      "name": "Funsiamo心玩藝手作蛋糕教室 台北京站門市",
+      "priceRange": "$$",
+      "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "光復南路200巷28號1樓 ",
+      "addressLocality": "大安區",
+      "addressRegion": "台北市",
+      "postalCode": "106",
+      "addressCountry": "TW"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 25.049308,
+        "longitude": 121.5150048
+      },
+      "telephone": "+8862-2559-5580",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "opens": "11:00",
+          "closes": "21:30"
+        }
+       ]
+      }
+     ]
+  }
+</script>
