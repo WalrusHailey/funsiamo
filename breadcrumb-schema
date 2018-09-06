@@ -5,13 +5,13 @@
       "@type": "ListItem",
       "position": 1,
       "item": {
-         "url": "http://www.funsiamo.com/",
+         "@id": "http://www.funsiamo.com/",
          "name": "Funsiamo台灣"
          }
    },{ "@type": "ListItem",
       "position": 2,
       "item": {
-         "url": "http://www.funsiamo.com/service.php",
+         "@id": "http://www.funsiamo.com/service.php",
          "name": "服務項目"
          }
    }]}
