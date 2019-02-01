@@ -1,0 +1,20 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "Product",
+  "name": "Vendôme Rouge杜樂麗凡登", //這邊請寫產品名稱
+  "image": [
+    "https://s3-ap-southeast-1.amazonaws.com/funsiamo/image/productitem/o/0s/b5te0i0sa66oenk16k.jpg"
+   ], //這邊請放蛋糕圖片
+  "description": "Vendôme Rouge 杜樂麗凡登 以法國最奢貴的凡登廣場為概念，周圍法式建築圍繞一圈，彷彿能感受到在法國最浮華的時刻，滿是新鮮草莓舖蓋，上頭凝結著甜蜜感。達克瓦茲的酥脆口感，配上新鮮草莓，點綴金箔。", //這邊請寫產品或解決方案介紹
+  "brand": {
+    "@type": "Organization",
+    "name": "Funsiamo烘培體驗空間"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "90"
+  } //這邊若有使用者評分功能Review，建議可以放上來
+}
+</script>
