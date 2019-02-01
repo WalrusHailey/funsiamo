@@ -1,0 +1,27 @@
+<html>
+<head>
+<title>DIY蛋糕體驗會限制年紀嗎？</title>
+</head>
+<body>
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "QAPage",
+    "mainEntity": {
+      "@type": "Question",
+      "name": "DIY蛋糕體驗會限制年紀嗎？",
+      "text": "想要帶國小年紀的小孩去體驗DIY蛋糕教室，會有限制嗎？",
+      "answerCount": 1,
+      "dateCreated": "2019-02-01",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "因為烘培爐火會有安全性問題，所以年齡限制為六歲以上。",
+        "dateCreated": "2019-02-01",
+        "upvoteCount": 100,
+        "url": "url" //自助烘培經驗頁面的網址
+      }
+    }
+  }
+</script>
+</body>
+</html>
