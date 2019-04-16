@@ -1,0 +1,29 @@
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"ItemList",
+  "itemListElement":[
+    {
+      "@type":"ListItem",
+      "position":1,
+      "url":"https://www.funsiamo.com/product.php?sid=1&cid=75&pid=199"
+    },
+    {
+      "@type":"ListItem",
+      "position":2,
+      "url":"https://www.funsiamo.com/product.php?sid=1&cid=75&pid=201"
+    },
+    {
+      "@type":"ListItem",
+      "position":3,
+      "url":"https://www.funsiamo.com/product.php?sid=1&cid=75&pid=202"
+    },
+//.....中間省略，請依照相同邏輯把所有蛋糕品項的「position」、「url」完成。
+    {
+      "@type":"ListItem",
+      "position":20, //請依照實際蛋糕url有幾項，來計數。
+      "url":"https://www.funsiamo.com/product.php?sid=1&cid=6&pid=30"
+    }
+  ]
+}
+</script>
