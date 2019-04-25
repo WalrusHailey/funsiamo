@@ -1,0 +1,31 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.funsiamo.com/situation.php"
+  },
+  "headline": "生日蛋糕親手做 送上最驚喜難忘的生日禮物！",
+  "image": [
+    "https://www.funsiamo.com/images/article/seo_article_02@3x.png",
+    "https://www.funsiamo.com/images/article/seo_article_01@3x.png",
+    "https://s3-ap-southeast-1.amazonaws.com/funsiamo/image/productitem/o/0s/b5te0i0sa66oenk16k.jpg"
+   ],
+  "datePublished": "2019-04-24T08:00:00+08:00",
+  "dateModified": "2019-04-25T09:20:00+08:00",
+  "author": {
+    "@type": "Organization",
+    "name": "Funsiamo 烘焙體驗空間"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "name": "Funsiamo 烘焙體驗空間",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.funsiamo.com/images/logo_1920.png"
+    }
+  },
+  "description": "手作蛋糕體驗！買不如做，親手做的生日蛋糕無價。Funsiamo打破親做糕點會弄的一團混亂的刻板印象，以「客自化」全新思維出發，全程iPad自助教學，輕鬆嘗試甜蜜烘焙體驗，將最困難的器具、備料、製作烘烤流程化繁至最簡，即便新手都能輕鬆完成。"
+}
+</script>
